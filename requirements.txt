@@ -1,4 +1,5 @@
 streamlit==1.24.1
+pillow==9.5.0
 pandas>=2.2.3
 numpy>=1.25.0
 matplotlib>=3.7.1
@@ -6,4 +7,5 @@ seaborn>=0.13.2
 statsmodels>=0.14.4
 scipy>=1.15.2
 google-generativeai==0.8.5
+
 
